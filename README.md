@@ -1,7 +1,10 @@
 # 06-analytics-engineering
 เข้าไปใน Folder 06-analytics-engineering
+
 cd 06-analytics-engineering
+
 สร้าง web server postgres ด้วย docker port 3000
+
 docker compose up
 สร้าง ENV สำหรับการเขียน code Python และเก็บ package
 python -m venv ENV
